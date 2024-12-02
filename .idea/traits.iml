@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/aead/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cipher/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crypto/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/elliptic-curve/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/elliptic-curve/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/kem/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/kem/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/password-hash/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/password-hash/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/signature/async/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/signature/derive/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/signature/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/signature/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/universal-hash/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
